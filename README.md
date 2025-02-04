@@ -10,7 +10,7 @@
 >   - Run this command with your repository URL: 
 >     - `./setup_repo.sh ___YOUR_REPOSITORY_URL___`
 
-## Code Challenge (Job 7792)
+## Code Challenge - Express
 
 Create a simple RESTful API using Node.js and Express that allows users to manage a list of tasks. 
 Each task should have the following properties:
